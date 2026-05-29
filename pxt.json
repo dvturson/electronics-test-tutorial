@@ -1,16 +1,17 @@
 {
     "name": "electronics-test-tutorial",
-    "description": "",
+    "description": "JellySTEM BottleBoat Local Control Lesson",
     "dependencies": {
         "core": "*",
         "microbit": "*",
-        "mShield": "https://github.com/siyeenove/pxt_mshield#"
+        "mShield": "github:siyeenove/pxt_mshield#master"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "tutorial.md"
+        "tutorial.md",
+        "pxt.json"
     ],
     "testFiles": [
         "test.ts"
